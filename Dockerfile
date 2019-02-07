@@ -1,4 +1,4 @@
-FROM node:8.12-slim
+FROM node:11.9.0-slim
 
 # for puppetter
 # https://github.com/GoogleChrome/puppeteer/blob/master/docs/troubleshooting.md
